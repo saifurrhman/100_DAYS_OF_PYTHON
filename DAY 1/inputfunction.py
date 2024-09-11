@@ -1,5 +1,5 @@
 input("what is your name \n")
 print("FA22-BSE-"+input("Regno\n"))
-print(len("saif ur rehman"))
-input("Department Name\n ")
+print(len(input("what is your name \n")))
+input("Department Name\n")
 input("Subject Name\n")
