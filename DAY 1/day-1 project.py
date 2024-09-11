@@ -1,0 +1,5 @@
+print("welcome to yuor brand ")
+input("which is your city ")
+city=input("YOUR city NAME ")
+pet=input("YOUR PET NAME ")
+print("you brand name"+ city+" "+ pet)
