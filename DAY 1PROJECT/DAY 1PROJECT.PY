@@ -1,6 +1,6 @@
 a=float(input("ENTER THE FIRST NUMBER: "))
-operation=input("enter the operation (+,-*,/)")
 b=float(input("ENTER THE SECOND NUMBER: "))
+operation=input("enter the operation (+,-*,/)")
 if operation =='+':
     result= a+b
 elif operation =='-':
@@ -8,6 +8,7 @@ elif operation =='-':
 elif operation =='*':
     result= a*b
 elif operation =='/':
+
     if b!=0:
       result= a/b
     else :
