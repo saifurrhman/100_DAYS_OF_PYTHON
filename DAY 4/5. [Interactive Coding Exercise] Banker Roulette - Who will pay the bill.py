@@ -6,5 +6,6 @@ NAME=nameasCSV.split(" , ")
 # random.randint(0,9)
 print(len(NAME))
 num_items=len(nameasCSV)
+
 random_choice=random.randint(0,num_items-1)
 print(random_choice)
